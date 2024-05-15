@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "hackathon-grp-3",
+  "description": "A repository used to stock the code for the fablab project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glouglouu/Hackathon-grp-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glouglouu/Hackathon-grp-3/issues"
+  },
+  "homepage": "https://github.com/glouglouu/Hackathon-grp-3#readme"
+}
